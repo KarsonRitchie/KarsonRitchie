@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 -He/Him
 <br>
 <br>
+![Me2](https://github.com/user-attachments/assets/1de07cd1-8882-4b40-821f-863fb1294cdc)
+<br>
+<br>
 Prefferred Languages: Java and Python
 <br>
 Known Languages: Java, Python, SQL, HTML, CSS, Javascript
