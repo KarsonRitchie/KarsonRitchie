@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello there
+My name is Karson Ritchie. I am a programmer and a game developer as a hobby. I also seek a career in computer programming and opportunities to use my knowledge and expand it.
 
 <!--
 **KarsonRitchie/KarsonRitchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +16,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+-I have just finished a Java project that acts as a program for used game stores.
+<br>
+-He/Him
+<br>
+<br>
+Prefferred Languages: Java and Python
+<br>
+Known Languages: Java, Python, SQL, HTML, CSS, Javascript
+<br>
+Willing to use/learn: Any language, I seek to expand my knowledge and use as many programming languages as I can.
+
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
@@ -27,7 +39,8 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-
+<br>
+<br>
 Game Development Showcases (Some assets belong to downloadable sources and resource packs. The song used in the horror prototypes are from a friend. They are meant to be placeholders until I start finalizing the game):
 
 [Adding Game](https://youtu.be/PmS7KxYHkkU)<br>
