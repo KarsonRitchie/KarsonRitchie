@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 -I have just finished a Java project that acts as a program for used game stores.
 <br>
+-Email: kmritchie126522@mymail.tstc.edu
+<br>
+-Phone Number: 903-293-5251
+<br>
 -He/Him
 <br>
 <br>
