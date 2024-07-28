@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -He/Him
 <br>
 <br>
-![Me2](https://github.com/user-attachments/assets/1de07cd1-8882-4b40-821f-863fb1294cdc)
+![Me2](https://github.com/user-attachments/assets/b1103b88-3278-4e47-9d01-e56774b5043c)
 <br>
 <br>
 Prefferred Languages: Java and Python
