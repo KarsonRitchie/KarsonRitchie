@@ -26,3 +26,11 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+Game Development Showcases (Some assets belong to downloadable sources and resource packs. The song used in the horror prototypes are from a friend. They are meant to be palceholders until I start finalizing the game):
+
+[Adding Game](https://youtu.be/PmS7KxYHkkU)<br>
+[Catching Game](https://youtu.be/or7A43wycbI)<br>
+[Survival Horror Prototype](https://youtu.be/la6mMDPAMv4)<br>
+[Blackout, my main project](https://youtu.be/ufhKrzZY1QA)
