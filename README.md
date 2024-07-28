@@ -28,9 +28,15 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-Game Development Showcases (Some assets belong to downloadable sources and resource packs. The song used in the horror prototypes are from a friend. They are meant to be palceholders until I start finalizing the game):
+Game Development Showcases (Some assets belong to downloadable sources and resource packs. The song used in the horror prototypes are from a friend. They are meant to be placeholders until I start finalizing the game):
 
 [Adding Game](https://youtu.be/PmS7KxYHkkU)<br>
 [Catching Game](https://youtu.be/or7A43wycbI)<br>
 [Survival Horror Prototype](https://youtu.be/la6mMDPAMv4)<br>
 [Blackout, my main project](https://youtu.be/ufhKrzZY1QA)
+
+Used Games Program Showcase (My most Recent Project):
+<br>[https://drive.google.com/file/d/1Z4235vU3tkYNuTey8kG_PXP7hArlHeW5/view?usp=sharing](https://drive.google.com/file/d/1Z4235vU3tkYNuTey8kG_PXP7hArlHeW5/view?usp=sharing)
+
+Used Games Program Master Branch (The code for the above application):
+<br>[https://github.com/TSTC-CPT/24SP-233x-KarsonRitchie/tree/master](https://github.com/TSTC-CPT/24SP-233x-KarsonRitchie/tree/master)
