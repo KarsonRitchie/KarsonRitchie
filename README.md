@@ -59,4 +59,4 @@ Used Games Program Showcase (My most Recent Project):
 <br>[https://drive.google.com/file/d/1Z4235vU3tkYNuTey8kG_PXP7hArlHeW5/view?usp=sharing](https://drive.google.com/file/d/1Z4235vU3tkYNuTey8kG_PXP7hArlHeW5/view?usp=sharing)
 
 Used Games Program Master Branch (The code for the above application):
-<br>[https://github.com/TSTC-CPT/24SP-233x-KarsonRitchie/tree/master]([https://github.com/TSTC-CPT/24SP-233x-KarsonRitchie/tree/master](https://github.com/KarsonRitchie/UsedGamesStore/tree/Master))
+<br>[https://github.com/TSTC-CPT/24SP-233x-KarsonRitchie/tree/master)](https://github.com/KarsonRitchie/UsedGamesStore/tree/Master)
